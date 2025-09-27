@@ -1,0 +1,2 @@
+# Mechanical_pannel_bracket_sm
+SHEETMETAL/CATIAV5
